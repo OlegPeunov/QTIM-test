@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/OlegPeunov/QTIM-test/static/css/main.07c28203.css",
+    "main.js": "/OlegPeunov/QTIM-test/static/js/main.62d80ea8.js",
+    "static/media/genericons-regular-webfont.svg": "/OlegPeunov/QTIM-test/static/media/genericons-regular-webfont.7448079bcb615e9f5422.svg",
+    "static/media/genericons-regular-webfont.ttf": "/OlegPeunov/QTIM-test/static/media/genericons-regular-webfont.ebc354a6d13f8ace4465.ttf",
+    "static/media/genericons-regular-webfont.woff": "/OlegPeunov/QTIM-test/static/media/genericons-regular-webfont.be377ba5207f3ba23d29.woff",
+    "static/media/genericons-regular-webfont.eot": "/OlegPeunov/QTIM-test/static/media/genericons-regular-webfont.50f97f0fa3af72b01413.eot",
+    "static/media/behance.eot?61221480": "/OlegPeunov/QTIM-test/static/media/behance.02b76392df0db65de693.eot",
+    "static/media/behance.ttf?61221480": "/OlegPeunov/QTIM-test/static/media/behance.b84de4999ee6994da8c6.ttf",
+    "static/media/behance.woff?61221480": "/OlegPeunov/QTIM-test/static/media/behance.3c0a0b91c57c93d693c2.woff",
+    "static/media/behance.svg?61221480": "/OlegPeunov/QTIM-test/static/media/behance.da5ee30fc844a28a318a.svg",
+    "index.html": "/OlegPeunov/QTIM-test/index.html",
+    "main.07c28203.css.map": "/OlegPeunov/QTIM-test/static/css/main.07c28203.css.map",
+    "main.62d80ea8.js.map": "/OlegPeunov/QTIM-test/static/js/main.62d80ea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c28203.css",
+    "static/js/main.62d80ea8.js"
+  ]
+}
